@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-228dr2.date-me.pro/sitemap.xml
